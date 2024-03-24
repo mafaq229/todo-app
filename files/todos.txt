@@ -1,6 +1,4 @@
-eat
 play a game
-read
 Wake up on time!
 Master Python!
 Create GUI

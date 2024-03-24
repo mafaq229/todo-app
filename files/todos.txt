@@ -1,5 +1,7 @@
-use
+eat
 play a game
 read
-sleep
-Eat food
+Wake up on time!
+Master Python!
+Create GUI
+Fix App

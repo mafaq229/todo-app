@@ -17,7 +17,7 @@ def write_todos(todos_arg, filepath="files/todos.txt"):
         file_local.writelines(todos_arg)
 
 
-# We only want to execute below lines when we run this script, not when imported in main.py file
+# We only want to execute below lines when we run this script, not when imported in cli.py file
 if __name__ == "__main__":  # this variable is secretly defined by python for every file
     print("Hello")
     print(get_todos())
